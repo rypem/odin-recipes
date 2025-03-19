@@ -7,10 +7,20 @@ body {
     font-weight: 800;
     font-size: 50px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: blueviolet;
 }
 
 .link {
     font-size: 25px;
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+    text-shadow: 2px 2px pink;
+    color: black;
+    border-color: blueviolet;
+    border-width: 6px;
+    border-style: double;
 
 }
 
